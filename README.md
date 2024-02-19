@@ -27,6 +27,7 @@ I chose pretrained resnet50 model, because it is well suited for image classific
 Two hyperparameters were tuned:
 
 learning rate - to find when the model learns fasters without overfitting
+
 batch-size - to find an optimal batch size to optimize model training time
 
 Hyperparameter tuning ranges:
