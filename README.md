@@ -1,7 +1,5 @@
 # Project: Image Classification (Deep Learning) using AWS SageMaker
 
-A program requirement for AWS Machine Learning Engineer Nanodegree @ Udacity School of Artificial Intelligence
-
 ## Project Description
 
 Used AWS Sagemaker to train and deploy a pretrained deep learning model (Resnet50) that can perform image classification. Employed good ML engineering practices by using the Sagemaker profiling, debugger, hyperparameter tuning and others.
@@ -12,7 +10,7 @@ The project was completed on AWS Sagemaker through the cloud gateway provided by
 
 ## Dataset
 
-The provided dataset is the dogbreed classification dataset which can be found here: https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip
+The provided dataset is the dogbreed classification dataset.
 There are 133 total dog categories. Sample dataset images shown below:
 ![Alt text](sample_dataset_images-1.png)
 
